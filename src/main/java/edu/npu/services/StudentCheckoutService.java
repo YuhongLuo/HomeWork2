@@ -26,6 +26,7 @@ public class StudentCheckoutService {
 
 public StudentCheckoutService() {
 	System.out.println("Let's rock!");
+	System.out.println("Let's rock again!");
 
 }
 
